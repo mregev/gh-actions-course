@@ -1,0 +1,1 @@
+Repository containing GitHub Actions Course practical exercises
